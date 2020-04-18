@@ -15,7 +15,6 @@ class City(db.Model) :
 def index():
     if request.method == 'POST':
         new_city = request.form.get('city')
-
         if new_city:
             new_city_obj = City(name=new_city)
 
