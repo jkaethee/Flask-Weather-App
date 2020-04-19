@@ -10,15 +10,13 @@ This project is currently in development. Future updates wil include clickable t
 
 ## Installation and Setup Instructions
 
-#### Example:  
-
 Clone this repository. You will need `python`, `virtualenv`, and `virtualenvwrapper-win` installed on your machine.
 
-Set up a virtual environment:
+#### Set up a virtual environment:
 
 `mkvirtualenv FlaskWeatherApp`
 
-Installation:
+#### Installation:
 
 `pip install flask`
 
@@ -26,6 +24,6 @@ Installation:
 
 `pip install requests`   
 
-To Start Server:
+#### To Start Server:
 
 `flask run`  
