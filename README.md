@@ -1,6 +1,6 @@
 ## Flask Weather App
 
-A simple web application to display the current weather in various cities, built with Python, Flask, SQLAlchemy, HTML, and Bulma.
+A simple web application to display the current weather in various cities, built with Python, Flask, SQLAlchemy, SQLite, HTML, and Bulma.
 
 This project is intended to help familiarize myself with web development with Python and Flask.
 
