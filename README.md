@@ -2,7 +2,7 @@
 
 A simple web application to display the current weather in various cities, built with Python, Flask, SQLAlchemy, SQLite, HTML, and Bulma.
 
-This project is intended to help familiarize myself with web development with Python and Flask.
+This project is intended to help familiarize myself with web development with Python and Flask, and is based on this [tutorial](https://www.youtube.com/watch?v=lWA0GgUN8kg).
 
 ## Project Status
 This project is currently in development. Future updates wil include clickable tiles for time, news, etc.
